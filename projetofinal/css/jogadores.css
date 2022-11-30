@@ -1,0 +1,161 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+body{
+    background-color:#fdf6b3;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    padding: auto;
+}
+
+header{
+    padding-top: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+header img{
+    max-width: 100%;
+    min-width: 10%;
+    width: 1300px;
+    height: 380px;
+    border: black solid 2px;
+}
+
+hr{
+    max-width: 100%;
+    min-width: 10%;
+    border: black;
+    height: 2px;
+    background: #000000;
+}
+
+#linha{
+    max-width: 90%;
+    min-width: 10%;
+}
+
+a{
+    max-width: 100%;
+    min-width: 10%;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin:auto;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+    transition: 1s;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 30px;
+    transition: 1s;
+}
+
+main{
+    max-width: 100%;
+    min-width: 10%;
+    text-align: center ;
+}
+
+h2{
+    text-align: left;
+    margin: 20px;
+    font-size: 30px;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+    border-spacing: 50px;
+    max-width: 100%;
+    min-width: 10%;
+}
+
+table p{
+    font-size: 20px;
+}
+
+td,tr{
+    width: 20%;
+    height: 20%;
+}
+
+img{
+    max-width: 80%;
+    min-width: 10%;
+}
+#goleiros{
+    border: none;
+}
+
+#goleiro{
+    border: rgb(15, 204, 25) solid 3px;
+}
+
+
+
+#laterais{
+    border: none;
+}
+
+#lateral{
+    border: rgb(24, 0, 236) solid 3px;
+}
+
+#meias{
+    border: none;
+}
+
+#meia{
+    border: rgb(251, 255, 0) solid 3px;
+}
+
+#Atacantes{
+    border: none;
+}
+
+#Atacante{
+    border: rgb(52, 211, 65) solid 3px;
+}
+
+#zagueiros{
+    border: none;
+}
+
+#zagueiro{
+    border: rgb(4, 112, 236) solid 3px;
+}
+
+footer{
+    max-width: 100%;
+    min-width: 10%;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+    margin: auto;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+hr{
+    max-width: 100%;
+    min-width: 10%;
+    border: black;
+    height: 2px;
+    background: #000000;
+}
+
+.container{
+    margin: 0 auto;
+    min-width: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+

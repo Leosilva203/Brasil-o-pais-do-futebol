@@ -1,0 +1,132 @@
+body{
+    margin: auto;
+    padding: auto;
+    background-color:#fdf6b3;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    padding-top: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+header img{
+    max-width: 100%;
+    min-width: 10%;
+    width: 1300px;
+    height: 380px;
+    border: black solid 2px;
+}
+
+hr{
+    max-width: 100%;
+    min-width: 10%;
+    border: black;
+    height: 2px;
+    background: #000000;
+}
+
+#linha{
+    max-width: 90%;
+    min-width: 10%;
+}
+
+a{
+    max-width: 100%;
+    min-width: 10%;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin:auto;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+    transition: 1s;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 30px;
+    transition: 1s;
+}
+
+main{
+    margin:auto;
+    max-width: 100%;
+    min-width: 10%;
+}
+
+
+.texto1{
+    text-align: justify;
+    font-size: 18px;
+    margin: auto;
+    padding: 0px 60px;
+}
+
+#imagem1{
+    text-align: center;
+    max-width: 100%;
+    min-width: 10%;
+    padding: 20px 0px;
+}
+
+#imagem1 img{   
+    border: black solid 2px;
+    max-width: 60%;
+    min-width: 10%;
+    
+}
+
+#imagem2{
+    text-align: center;
+    max-width: 100%;
+    min-width: 10%;
+    padding: 20px 0px;
+}
+
+#imagem2 img{   
+    border: black solid 2px;
+    max-width: 60%;
+    min-width: 10%;
+    
+}
+
+footer{
+    max-width: 100%;
+    min-width: 10%;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+    margin: auto;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+main h1{
+    margin: auto ;
+    padding: 20px ;
+    text-align: center;
+}
+
+main h2{
+    margin: auto;
+    padding-bottom: 30px;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#texto2{
+    margin: auto;
+    text-align: center;
+    max-width: 100%;
+    min-width: 10%;
+}
+
+#texto2 p{
+    text-align: justify;
+    font-size: 18px;
+    margin: auto;
+    padding: 0px 60px;
+}
